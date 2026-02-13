@@ -5,5 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ignoxx&show_icons=true&theme=dark" />
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </p>
