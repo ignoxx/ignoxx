@@ -4,8 +4,6 @@
   <img  src="https://komarev.com/ghpvc/?username=ignoxx&style=flat-square" />
 </p>
 
-<p align="center">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
