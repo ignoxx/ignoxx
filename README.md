@@ -1,8 +1,19 @@
-<h2 align="center">👋 Hey!</h3>
+### ignoxx
 
-I joined GitHub **9** years ago and have since pushed **2422** commits across **62** personal projects (work not included).
+just a passionate guy who loves to code, learn new things and ultimately craft really awesome software.
 
-I'm currently on a **2**-day commit streak, trying to beat **22**...
+Fun Facts
+- very interested in anything Go, CLIs, Game DEV, Backend
+- curious about Odin
+- FEs are **carefully** vibe-coded
+- almost everything in my repos are developed by hand
+- currently writing my own interpreter in Go
+- nvim btw
+- mac (no btw). wishing it was arch
+
+*I joined GitHub **9** years ago and have since pushed **2424** commits across **62** personal projects (work not included).*
+
+*I'm currently on a **3**-day commit streak, trying to beat **22**...*
 
 <br>
 
