@@ -9,11 +9,11 @@ Fun Facts
 - almost everything in my repos are developed by hand
 - currently writing my own interpreter in Go
 - nvim btw
-- mac (no btw). wishing it was arch
+- mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **9** years ago and have since pushed **2430** commits across **62** personal projects (work not included).*
+*I joined GitHub **9** years ago and have since pushed **2433** commits across **62** personal projects (work not included).*
 
-*I'm currently on a **3**-day commit streak, trying to beat **22**...*
+*I'm currently on a **4**-day commit streak, trying to beat **22**...*
 
 <br>
 
