@@ -9,7 +9,7 @@ Fun Facts
 - almost everything in my repos are developed by hand
 - currently writing my own interpreter in Go
 - nvim btw
-- mac (no btw). wishing it was arch
+- mac ~~btw~~. wishing it was arch
 
 *I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits across **{{ REPOSITORIES }}** personal projects (work not included).*
 
