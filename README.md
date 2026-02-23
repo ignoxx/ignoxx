@@ -4,16 +4,16 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 
 Fun Facts
 - very interested in anything Go, CLIs, Game DEV, Backend
-- curious about Odin
+- curious about Odin and Rust
 - FEs are **carefully** vibe-coded
 - almost everything in my repos are developed by hand
 - currently writing my own interpreter in Go
 - nvim btw
 - mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **9** years ago and have since pushed **2481** commits across **62** personal projects (work not included).*
+*I joined GitHub **9** years ago and have since pushed **2496** commits across **62** personal projects (work not included).*
 
-*I'm currently on a **10**-day commit streak, trying to beat **22**...*
+*I'm currently on a **11**-day commit streak, trying to beat **22**...*
 
 <br>
 
