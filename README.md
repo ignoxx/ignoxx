@@ -5,15 +5,14 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 Fun Facts
 - very interested in anything Go, CLIs, Game DEV, Backend
 - curious about Odin and Rust
-- FEs are **carefully** vibe-coded
 - almost everything in my repos are developed by hand
-- currently writing my own interpreter in Go
+- currently writing my own [interpreter in Go](https://github.com/ignoxx/monkey)
 - nvim btw
 - mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **9** years ago and have since pushed **2528** commits across **63** personal projects (work not included).*
+*I joined GitHub **9** years ago and have since pushed **2530** commits across **63** personal projects (work not included).*
 
-*I'm currently on a **18**-day commit streak, trying to beat **22**...*
+*I'm currently on a **19**-day commit streak, trying to beat **22**...*
 
 <br>
 
