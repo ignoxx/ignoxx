@@ -10,9 +10,9 @@ Fun Facts
 - nvim btw
 - mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **9** years ago and have since pushed **2533** commits across **63** personal projects (work not included).*
+*I joined GitHub **9** years ago and have since pushed **2534** commits across **63** personal projects (work not included).*
 
-*I'm currently on a **19**-day commit streak, trying to beat **22**...*
+*I'm currently on a **20**-day commit streak, trying to beat **22**...*
 
 <br>
 
