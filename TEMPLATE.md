@@ -11,7 +11,7 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 
 *I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits across **{{ REPOSITORIES }}** personal projects (work not included).*
 
-*I'm currently on a **{{ COMMIT_STREAK }}**-day commit streak  (best **{{ LONGEST_COMMIT_STREAK }}**)*
+*I'm currently on a **{{ COMMIT_STREAK }}**-day commit streak*
 
 ---
 
