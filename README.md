@@ -9,9 +9,9 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 - nvim btw
 - mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **10** years ago and have since pushed **3165** commits across **69** personal projects (work not included).*
+*I joined GitHub **10** years ago and have since pushed **3166** commits across **69** personal projects (work not included).*
 
-*I'm currently on a **84**-day commit streak*
+*I'm currently on a **85**-day commit streak*
 
 ---
 
