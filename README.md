@@ -9,14 +9,21 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 - nvim btw
 - mac ~~btw~~. wishing it was arch
 
-*I joined GitHub **10** years ago and have since pushed **3638** commits across **72** personal projects (work not included).*
+## Lately building
+- [gymclaw](https://github.com/ignoxx/gymclaw) - personal gym assistant
+- [alyte](https://github.com/ignoxx/alyte) - on-device AI & local-first lab report tracking
+- [dontcrack](https://github.com/ignoxx/dontcrack) - 1v1 webcam game where both players try not to smile
+- [gm-msgpack](https://github.com/ignoxx/gm-msgpack) - pure GML MessagePack for GameMaker
+- [go-gameboy](https://github.com/ignoxx/go-gameboy) - Game Boy emulator in Go
+- [monkey](https://github.com/ignoxx/monkey) - interpreter in Go from scratch
+- ...and plenty more collecting dust on my hard drive :)
 
-*I'm currently on a **130**-day commit streak*
+*I joined GitHub **10** years ago and have since pushed **3680** commits across **72** personal projects (work not included).*
+
+*I'm currently on a **133**-day commit streak*
 
 ---
 
 <p align="center">
   <img  src="https://komarev.com/ghpvc/?username=ignoxx&style=flat-square" />
 </p>
-
-
