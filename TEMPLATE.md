@@ -1,4 +1,4 @@
-## ignoxx 
+## Hi, I'm Ignas 👋 
 just a passionate guy who loves to code, learn new things and ultimately craft really awesome software.
 
 ## Fun Facts
