@@ -4,7 +4,7 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 ## Fun Facts
 - very interested in anything Go, CLIs, Game DEV, Backend
 - curious about Odin and Rust
-- almost everything in my repos are developed by hand
+- ~~almost everything in my repos is developed by hand~~
 - currently writing my own [interpreter in Go](https://github.com/ignoxx/monkey)
 - nvim btw
 - mac ~~btw~~. wishing it was arch
@@ -18,7 +18,7 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 - [monkey](https://github.com/ignoxx/monkey) - interpreter in Go from scratch
 - ...and plenty more collecting dust on my hard drive :)
 
-*I joined GitHub **10** years ago and have since pushed **4256** commits across **73** personal projects (work not included).*
+*I joined GitHub **10** years ago and have since pushed **4293** commits across **73** personal projects (work not included).*
 
 *I'm currently on a **135**-day commit streak*
 
