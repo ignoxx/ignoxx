@@ -18,9 +18,9 @@ just a passionate guy who loves to code, learn new things and ultimately craft r
 - [monkey](https://github.com/ignoxx/monkey) - interpreter in Go from scratch
 - ...and plenty more collecting dust on my hard drive :)
 
-*I joined GitHub **10** years ago and have since pushed **4293** commits across **73** personal projects (work not included).*
+*I joined GitHub **10** years ago and have since pushed **4300** commits across **73** personal projects (work not included).*
 
-*I'm currently on a **135**-day commit streak*
+*I'm currently on a **136**-day commit streak*
 
 ---
 
